@@ -6,6 +6,5 @@ int main(){
 
     Tabuleiro tab1;
 
-
     return 0;
 }
